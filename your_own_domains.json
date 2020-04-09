@@ -1,0 +1,12 @@
+{
+	"KEY1":{
+		"zone":"example.com",
+		"domain":"x",
+		"type":"A"
+	},
+	"KEY2":{
+		"zone":"example.com",
+		"domain":"z",
+		"type":"AAAA"
+	}
+}
